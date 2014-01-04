@@ -32,6 +32,9 @@ gem 'jbuilder', '~> 1.2'
 #Bootstrap!
 gem 'bootstrap-sass', '~> 3.0.3.0'
 
+#Lastest version of Devise for customer authentication
+gem 'devise', '~> 3.1.1'
+
 # Use sqlite3 as the database for Active Record
 group :development, :test do
 	gem 'sqlite3'
